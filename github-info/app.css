@@ -57,7 +57,7 @@
 }
 
 #github-info-app .pig-info {
-    height: 55px;
+    height: 100px;
     margin-left: 123px;
     margin-top: -35px;
     background-color: #D40082;
@@ -66,7 +66,7 @@
     padding: 6px;
     padding-left: 10px;
     padding-right: 10px;
-    width: 210px;
+    width: 220px;
     -moz-border-radius: 12px;
     -webkit-border-radius: 12px;
     border-radius: 12px;
@@ -126,11 +126,11 @@
 }
 
 #github-info-app .pig-info:hover {
-    width: 450px;
+    /* width: 450px; */
 }
 
 #github-info-app .pig-info:hover {
-    height: auto;
+    /* height: auto; */
 }
 
 #github-info-app .action-footer p, #github-info-app .action-footer a {
