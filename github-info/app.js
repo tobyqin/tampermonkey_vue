@@ -2,10 +2,10 @@
     let appTemplate = `<div id="github-info-app" style="opacity: 0" >
                       <span>
                         <img id="peppa-img"  
-                        :src="peppaImg">
+                        src="https://raw.githubusercontent.com/tobyqin/tampermonkey_vue/master/github-info/peppa.png">
                         <div class="pig-say">
-                            <div class="pig-info-arrow" :style="peppaArrowStyle"></div>
-                            <div class="pig-info" :style="peppaBgStyle">
+                            <div class="pig-info-arrow"></div>
+                            <div class="pig-info">
                             <p><b>Peppa:</b> Hello world!
                             </p>                            
                             <div class="pig-info-more">
