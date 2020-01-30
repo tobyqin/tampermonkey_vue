@@ -22,7 +22,10 @@
     let githubApp = new Vue({
         data: {
             message: 'Hello world!',
-            userInfo: null
+            userInfo: {'login':'Unknown',
+            'public_repos':'...',
+            'public_gists':'...',
+            'followers':'...'}
         },
         methods: {
             getUserId(url) {

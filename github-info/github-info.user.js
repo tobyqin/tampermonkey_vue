@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Github Info
 // @namespace    https://betacat.online/
-// @version      0.2.0
+// @version      0.2.1
 // @description  A demo to use vuejs in tampermonkey script.
 // @author       Toby Qin
 // @include      *github.com*
