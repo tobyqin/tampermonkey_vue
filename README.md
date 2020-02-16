@@ -2,7 +2,7 @@
 
 Demo to use vue in tampermonkey.
 
-Blog: <https://betacat.online/posts/2019-02-25/tampermonkey-user-script-with-vuejs/>
+Blog: <https://betacat.online/posts/2019-02-24/tampermonkey-user-script-with-vuejs/>
 
 ## How to 
 
